@@ -68,13 +68,13 @@ nav ul {
   padding: 0;
   display: flex;
   justify-content: space-between;
-  max-width: 1067px;
+  max-width: 1280px;
 }
 
 nav ul h1 {
   margin-top: 10px; /* adjust the value to move it down */
   text-align: center;
-  max-width: 767px;
+  max-width: 1280px;
 }
 
 nav li a {
@@ -93,7 +93,7 @@ nav a {
   padding-left: 50px;
   padding-right: 50px;
   padding-top: 15px;
-  max-width: 767px;
+  max-width: 1280px;
 }
 
 nav a:hover {
@@ -104,7 +104,7 @@ nav ul h1 {
   padding-top: 0%;
   width: 233px;
   height: 57px;
-  max-width: 767px;
+  max-width: 1280px;
 }
 
 nav li:last-child {
@@ -153,9 +153,8 @@ nav li:last-child {
 }
 
 .image1 {
-  max-width: 100%;
   height: auto;
-  max-width: 1440px; 
+  max-width: 1280px; 
   margin: 0 auto;
 }
 /* .image1 img {
@@ -165,13 +164,13 @@ nav li:last-child {
 
 .image3 {
   height: auto;
-  max-width: 1440px; 
+  max-width: 1280px; 
   margin: 0 auto;
 }
 
 .image5 {
   height: auto;
-  max-width: 1440px; 
+  max-width: 1280px; 
   margin: 0 auto;
 }
 
@@ -213,11 +212,10 @@ body {
   padding: 20px;
   border-radius: 10px;
   background: linear-gradient(to right, #48bcffbd, #1852f1);
-  max-width: 100%; /* займає весь екран по ширині */
   padding: 40px;
   display: flex;
   justify-content: center;
-  max-width: 970px; 
+  max-width: 1280px; 
   margin: 0 auto;
 }
 
@@ -307,7 +305,7 @@ h1 {
   width: 40%;
   padding: 20px;
   flex-direction: column;
-  max-width: 767px;
+  max-width: 1280px;
 }
 
 .image img {
@@ -344,7 +342,7 @@ h1 {
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 20px;
-  max-width: 1200px;
+  max-width: 1280px;
   margin: 0 auto;
 
 }
@@ -363,7 +361,7 @@ h1 {
   width: 40%;
   padding: 20px;
   flex-direction: column;
-  max-width: 767px;
+  max-width: 1280px;
 }
 
 .image img {
@@ -402,7 +400,6 @@ h1 {
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   text-align: center;
-  max-width: 100%;
 }
 
 h1 {
@@ -441,7 +438,7 @@ button[type="submit"]:hover {
 }
 
 .faq-container {
-  max-width: 800px;
+  max-width: 1280px;
   margin: 40px auto;
   padding: 20px;
   background-color: #f9f9f9;
@@ -507,7 +504,7 @@ a:hover {
   padding: 40px;
   display: flex;
   justify-content: center;
-  max-width: 1200px;
+  max-width: 1280px;
   margin: 0 auto;
 }
 .header {
@@ -588,7 +585,7 @@ a:hover {
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 1280px) {
   .image1 {
     width: 100%;
   }
